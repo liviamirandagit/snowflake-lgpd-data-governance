@@ -23,7 +23,7 @@ Toda essa lógica é aplicada diretamente no motor do Snowflake, garantindo que 
 ---
 
 ## 📸 
-<img width="702" height="615" alt="image" src="https://github.com/user-attachments/assets/b14d5af7-df3d-421b-bfcf-4291bdb7a151" />
+<img width="1834" height="677" alt="Captura de tela de 2026-08-19 13-16-49" src="https://github.com/user-attachments/assets/875656b5-7e80-421a-ae94-7713ce1e94b7" />
 <img width="1908" height="925" alt="Captura de tela de 2026-08-18 23-23-32" src="https://github.com/user-attachments/assets/cb741962-37ae-424c-8483-124e4af8dcf4" />
 
 
