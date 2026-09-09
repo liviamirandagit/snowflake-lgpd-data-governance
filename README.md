@@ -1,4 +1,4 @@
-# ☁️ Governança de Dados e LGPD no Snowflake Data Cloud
+# ☁️❄️ Governança de Dados e LGPD no Snowflake Data Cloud 
 ### 🛡️ Mascaramento Dinâmico, Anonimização Estatística e Controle de Acesso Baseado em Funções (RBAC)
 
 <p align="center">
